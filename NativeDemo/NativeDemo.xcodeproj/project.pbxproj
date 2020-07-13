@@ -347,7 +347,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/flutter_app/Release",
+					"$(PROJECT_DIR)/flutter_app/Debug",
 				);
 				INFOPLIST_FILE = NativeDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
